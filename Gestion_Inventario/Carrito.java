@@ -5,10 +5,10 @@ import java.util.Map;
  * Nombre del archivo: Carrito.java
  * 
  * El Objetivo de la creación de esta clase es utilizarla para crear un pequeño simulador de inventario y carrito de compras,
- * la clase carrito se compone del nombre del cliente (dueño del carrito), lista de productos, cantidad de artículos en la lista
+ * la clase Carrito se compone del nombre del cliente (dueño del carrito), lista de productos, cantidad de artículos en la lista
  * y por último el monto total del carrito de compras para que el usuario visualice el total a pagar por sus productos.
  *
- * @author Sergio Cruz Estrada
+ * @author Sergio CE
  * @version v0.1.0
  * @since OpenJDK 17.0.15 (2025-04-15)
  */
